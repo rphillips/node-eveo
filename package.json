@@ -1,0 +1,18 @@
+{
+  "name": "eveo",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Ryan Phillips <ryan@trolocsis.com>",
+  "contributors": [
+  ],
+  "dependencies": {
+    "xml2js": "0.1.9"
+  },
+  "directories" : {
+    "lib": "./lib"
+  },
+  "keywords": ["eve online", "eveonline"],
+  "repository": "blah",
+  "main": "index"
+}
+
