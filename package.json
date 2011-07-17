@@ -6,13 +6,14 @@
   "contributors": [
   ],
   "dependencies": {
-    "xml2js": "0.1.9"
+    "xml2js": "0.1.9",
+    "logmagic": "0.1.4"
   },
   "directories" : {
     "lib": "./lib"
   },
   "keywords": ["eve online", "eveonline"],
-  "repository": "blah",
+  "repository": "git://github.com/rphillips/node-eveo.git",
   "main": "index"
 }
 
