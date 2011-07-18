@@ -7,7 +7,8 @@
   ],
   "dependencies": {
     "xml2js": "0.1.9",
-    "logmagic": "0.1.4"
+    "logmagic": "0.1.4",
+    "whiskey": "0.4.1"
   },
   "directories" : {
     "lib": "./lib"
