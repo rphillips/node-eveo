@@ -8,6 +8,15 @@ var authfile = fs.readFileSync(authFilePath);
 var auth = JSON.parse(authfile);
 
 var cli = new eveo.Client(auth.ID, auth.Key);
+
+/*
 cli.characters(null, function(err, data) {
   console.log(util.inspect(data, true, null));
 });
+*/
+
+/*
+cli.skillQueue({ characterID: null }, function(err, data) {
+  console.log(util.inspect(data, true, null));
+});
+*/
