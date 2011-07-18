@@ -11,7 +11,7 @@ Apache 2.0
 Author
 ======
 
-Ryan Phillips <ryan@trolocsis.com>
+Ryan Phillips
 
 Contributors
 ============
