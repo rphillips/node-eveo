@@ -33,6 +33,13 @@ Configure
 # chmod 600 ~/.node-eveo
 ```
 
+Install Dependencies
+====================
+
+```shell
+# npm install .
+```
+
 Tests
 =====
 
